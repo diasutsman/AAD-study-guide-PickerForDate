@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Picker For Date</string>
+    <string name="txt_hello_world_choose_a_date">Hello World! Choose a date:</string>
+    <string name="btn_date">Date</string>
+    <string name="tag_datepicker">datePicker</string>
+</resources>
